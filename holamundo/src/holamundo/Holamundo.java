@@ -17,7 +17,7 @@ public class Holamundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("paso 1");
-        System.out.println("paso 2");
+        System.out.println("paso 2.1");
     }
     
 }
