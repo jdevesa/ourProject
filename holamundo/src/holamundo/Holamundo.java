@@ -22,6 +22,10 @@ public class Holamundo {
         System.out.println("paso 3");
         System.out.println("paso 4");
         System.out.println("paso 5");
+        /*************** 2n add y commit *********************************/
+        System.out.println("paso 6");
+        System.out.println("paso 7");
+        System.out.println("paso 8");
     }
     
 }
