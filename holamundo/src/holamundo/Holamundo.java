@@ -18,6 +18,10 @@ public class Holamundo {
         // TODO code application logic here
         System.out.println("paso 1");
         System.out.println("paso 2.1");
+        /*************** 1r add y commit *********************************/
+        System.out.println("paso 3");
+        System.out.println("paso 4");
+        System.out.println("paso 5");
     }
     
 }
