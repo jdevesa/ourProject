@@ -18,10 +18,9 @@ public class Holamundo {
         // TODO code application logic here
         System.out.println("paso 1");
         System.out.println("paso 2");
-<<<<<<< HEAD
+         System.out.println("paso 2 otra prueba");
         
-=======
->>>>>>> origin/master
+
     }
     
 }
